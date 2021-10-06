@@ -20,7 +20,7 @@ The architecture of the model is presented in the image below, taken from the re
 *  The layers above are followed by 3 MLPs and sigmoid function to generate final predictions.
 
 <p align="left">
-  <img width="631" height="300" src="BST_Architecture.png">
+  <img width="700" height="400" src="BST_Architecture.png">
 </p>
 
 ## References
